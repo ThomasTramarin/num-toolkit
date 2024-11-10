@@ -1,0 +1,30 @@
+{
+  "name": "num-toolkit",
+  "version": "1.0.0",
+  "description": "A toolkit for various number manipulations and conversions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThomasTramarin/num-toolkit.git"
+  },
+  "keywords": [
+    "number",
+    "conversion",
+    "math",
+    "toolkit"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.18.63",
+    "typescript": "^4.9.5"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
