@@ -1,6 +1,6 @@
 {
   "name": "num-toolkit",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A toolkit for various number manipulations and conversions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
